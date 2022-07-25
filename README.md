@@ -16,14 +16,18 @@ I'm a third-year undergraduate in Computer Science & Engineering department🎓 
 
 ![Pasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasan-SK&show_icons=true&theme=radical&count_private=true)
 
-<a href="https://github.com/pasan-SK/github-readme-stats"><img alt="pasan-SK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan-SK&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=pasan-SK&theme=onedark&rank=S,AAA,AA,A,B,C)](https://github.com/pasan-SK/github-profile-trophy)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+## Activity Graph
+<p align="center">
+  <img src="https://github-profile-stadistics.herokuapp.com/graph?username=pasan-SK&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<br>
 
 <!--
 **pasan-SK/pasan-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
