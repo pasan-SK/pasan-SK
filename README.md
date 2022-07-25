@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Pasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasan-SK&show_icons=true&theme=radical&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pasan-SK&theme=onedark&rank=-C,-B)](https://github.com/pasan-SK/github-profile-trophy)
+
 <!--
 **pasan-SK/pasan-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
