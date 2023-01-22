@@ -1,5 +1,5 @@
 ## Hey 👋, I'm [Pasan Kalansooriya!](https://github.com/iampavangandhi/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasan-SK&label=Profile%20views&color=0e75b6&style=flat" alt="pasan-SK" /> </p> 
+
 I'm a third-year undergraduate in Computer Science & Engineering department🎓 of University of Moratuwa, Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Connect with me :
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
@@ -57,6 +57,7 @@ I'm a third-year undergraduate in Computer Science & Engineering department🎓 
   <img src="https://github-profile-stadistics.herokuapp.com/graph?username=pasan-SK&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasan-SK&label=Profile%20views&color=0e75b6&style=flat" alt="pasan-SK" /> </p> 
 <br>
 
 <!--
