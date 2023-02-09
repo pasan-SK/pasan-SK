@@ -2,10 +2,22 @@
 
 I'm a third-year undergraduate in Computer Science & Engineering department🎓 of University of Moratuwa, Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Connect with me :
 
+[![LinkedIn](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pasan_s_k/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/pasan.kalansooriya.5/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Scialytic)
+<br/>
+<br/>
+<br/>
+
+### 📝 My Latest Blog articles on Medium
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pasanSK/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pasanSK/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pasanSK/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pasanSK/1" alt="Recent Article 1"> 
+  
+<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pasanSK/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pasanSK/2" alt="Recent Article 2">  -->
+
 
 <br/>
 
