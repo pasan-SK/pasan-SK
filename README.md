@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Pasan Kalansooriya!](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
 
-I'm a third-year undergraduate in Computer Science & Engineering department🎓 of University of Moratuwa, Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Connect with me :
+I'm a fourth-year undergraduate in Computer Science & Engineering department🎓 of University of Moratuwa, Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Connect with me :
 
 [![LinkedIn](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
