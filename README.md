@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Pasan Kalansooriya!](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
 
-I’m a Software Engineer with a BSc Eng. (Hons) in Computer Science and Engineering from the University of Moratuwa, currently working at Sysco LABS, where I contribute to innovative projects at the intersection of AI, machine learning, and software engineering. My research interests focus on Natural Language Processing (NLP) and Computer Vision. I’m passionate about leveraging cutting-edge technologies to solve real-world problems, and I thrive on collaboration, learning, and continuous personal and professional growth. Connect with me :
+PhD researcher in Clinical AI at the University of Melbourne, working on machine learning for vestibular schwannoma detection and decision‑support systems. Previously trained as a Software Engineer (BSc Eng. Hons, University of Moratuwa) with industry experience at SyscoLABS and WSO2. Interested in Computer Vision, NLP, and applied Reinforcement Learning for real‑world optimisation problems. Connect with me :
 
 [![LinkedIn](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasan-kalansooriya-825b54213/)
